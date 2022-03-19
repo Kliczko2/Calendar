@@ -1,0 +1,20 @@
+.year
+{
+    border: 2px solid black;
+    height: 60px;
+    width: 24%;
+    float: left;
+}
+.month
+{
+    border: 2px solid black;
+    height: 60px;
+    width: 13%;
+    float: left;
+}
+.day
+{
+    border: 2px solid black;
+    height: 100px;
+    width: 40%;
+}
